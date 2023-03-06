@@ -1,4 +1,4 @@
 {
 "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-"additionalBranchPrefix": "{{#if parentDir}}{{parentDir}}/{{else}}{{}}{{/if}}"
+"additionalBranchPrefix": "{{#if parentDir}}{{parentDir}}/{{/if}}"
 }
