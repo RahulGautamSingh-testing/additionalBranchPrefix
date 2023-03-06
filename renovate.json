@@ -1,3 +1,4 @@
 {
-"additionalBranchPrefix": "{{parentFileDir/}}"
+"additionalBranchPrefix": "{{parentFileDir}}/"
+  "branchPrefix": "renovate-"
 }
